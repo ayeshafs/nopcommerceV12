@@ -1,0 +1,182 @@
+[INFO ] 21-10-2020 09:29:21.443 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:31:51.573 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:31:53.831 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:31:57.857 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:31:57.882 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:33:51.691 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:33:56.295 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:34:09.927 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:34:09.982 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:50:30.610 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:51:30.252 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:51:34.694 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:51:34.702 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:51:42.282 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:51:53.588 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:52:00.127 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 21-10-2020 09:52:00.141 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 21-10-2020 09:52:11.810 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:52:27.085 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:52:39.878 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:52:39.899 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:53:40.196 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:53:41.782 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:53:42.176 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:53:46.932 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:53:55.763 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:53:57.245 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:54:02.573 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 21-10-2020 09:54:02.586 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 21-10-2020 09:54:12.602 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:54:12.749 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:54:20.202 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:54:20.226 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:58:14.020 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:58:19.260 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:58:19.284 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:58:35.922 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:58:35.941 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:58:36.438 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:58:43.076 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 21-10-2020 09:58:46.467 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:58:46.482 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 21-10-2020 09:58:54.919 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 21-10-2020 09:59:03.524 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 21-10-2020 09:59:03.544 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 23-10-2020 09:04:48.402 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:04:52.641 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:05:03.568 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:05:03.594 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:05:24.792 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:05:34.418 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:05:37.975 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:05:46.275 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:05:51.205 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:05:51.220 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:05:59.589 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:06:03.833 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:06:05.097 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:06:05.114 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:06:07.884 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:06:07.895 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:11:23.207 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:11:25.179 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:11:28.922 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:11:28.935 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:32:08.603 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:32:10.512 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:32:14.230 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 23-10-2020 09:32:14.244 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 23-10-2020 09:32:52.830 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:32:54.683 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:32:58.685 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 23-10-2020 09:32:58.698 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 23-10-2020 09:35:34.274 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 23-10-2020 09:35:35.912 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 23-10-2020 09:35:40.800 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 23-10-2020 09:35:40.824 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 23-10-2020 09:35:52.760 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:04.954 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 23-10-2020 09:36:09.047 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:09.063 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:15.924 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 23-10-2020 09:36:15.924 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:15.929 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:22.454 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 23-10-2020 09:36:22.454 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:22.463 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 23-10-2020 09:36:29.528 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 23-10-2020 09:36:29.528 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:23:07.632 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 25-10-2020 03:23:08.308 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 25-10-2020 03:23:11.522 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 25-10-2020 03:23:14.046 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 25-10-2020 03:23:17.233 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 25-10-2020 03:23:17.258 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 25-10-2020 03:23:31.876 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 25-10-2020 03:23:31.958 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 25-10-2020 03:23:57.347 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 25-10-2020 03:23:57.361 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 25-10-2020 03:24:03.463 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 25-10-2020 03:24:04.056 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 25-10-2020 03:24:13.051 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 25-10-2020 03:24:13.076 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 25-10-2020 03:24:13.247 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 25-10-2020 03:24:13.258 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 25-10-2020 03:24:27.194 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:24:42.089 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 25-10-2020 03:24:47.688 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:24:47.704 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:24:54.460 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 25-10-2020 03:24:54.461 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:24:54.466 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:25:01.475 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 25-10-2020 03:25:01.476 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:25:01.483 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 03:25:07.913 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 25-10-2020 03:25:07.913 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 25-10-2020 06:22:26.850 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 25-10-2020 06:22:36.975 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 25-10-2020 06:22:43.302 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 25-10-2020 06:22:56.202 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 25-10-2020 06:22:56.220 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 25-10-2020 06:55:06.448 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 25-10-2020 06:55:08.225 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 25-10-2020 06:55:11.648 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 25-10-2020 06:55:11.665 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 25-10-2020 06:55:19.974 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 25-10-2020 06:55:28.488 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 25-10-2020 06:55:33.198 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 25-10-2020 06:55:45.324 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 25-10-2020 06:55:45.325 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 25-10-2020 06:55:52.521 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 25-10-2020 06:56:10.355 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 25-10-2020 06:56:10.355 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 25-10-2020 06:56:17.945 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 25-10-2020 06:56:32.881 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 25-10-2020 06:56:32.882 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 01:10:45.762 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 26-10-2020 01:10:45.773 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 26-10-2020 01:10:48.375 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 26-10-2020 01:10:56.446 TC_LoginTest_001 - *** Validation login ***
+[ERROR] 26-10-2020 01:10:56.476 TC_LoginTest_001 - *** Login Unsuccessfull ***
+[INFO ] 26-10-2020 01:10:59.814 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 26-10-2020 01:11:06.032 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 26-10-2020 01:11:10.619 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 01:11:23.624 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 26-10-2020 01:11:23.624 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 26-10-2020 01:11:26.532 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 26-10-2020 01:11:26.532 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 01:11:32.279 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 01:11:46.563 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 26-10-2020 01:11:46.563 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 01:16:15.448 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 26-10-2020 01:16:15.456 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 26-10-2020 01:16:17.514 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 26-10-2020 01:16:25.849 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 26-10-2020 01:16:25.888 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 26-10-2020 01:16:29.708 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 26-10-2020 01:16:34.194 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 01:16:34.849 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 26-10-2020 01:16:45.061 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 26-10-2020 01:16:45.061 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 01:16:48.421 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 26-10-2020 01:16:48.421 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 26-10-2020 01:16:53.131 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 01:17:05.112 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 26-10-2020 01:17:05.112 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 02:06:36.396 TC_LoginTest_001 - *** Starting TC_LoginTest_001 ***
+[INFO ] 26-10-2020 02:06:36.396 TC_AddCustomerTest_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 26-10-2020 02:06:39.561 TC_LoginTest_001 - *** Providing login details **
+[INFO ] 26-10-2020 02:06:49.452 TC_LoginTest_001 - *** Validation login ***
+[INFO ] 26-10-2020 02:06:49.480 TC_LoginTest_001 - *** Login Successfull **
+[INFO ] 26-10-2020 02:06:51.877 TC_AddCustomerTest_003 - *********Adding new customer *************
+[INFO ] 26-10-2020 02:06:58.031 TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 26-10-2020 02:06:59.020 TC_SearchCustomerByEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 02:07:11.449 TC_SearchCustomerByEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 26-10-2020 02:07:11.449 TC_SearchCustomerByEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 26-10-2020 02:07:11.553 TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 26-10-2020 02:07:11.553 TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 26-10-2020 02:07:19.958 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 26-10-2020 02:07:33.888 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 26-10-2020 02:07:33.889 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
